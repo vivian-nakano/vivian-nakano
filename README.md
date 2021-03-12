@@ -2,6 +2,7 @@
 
 #### Sou a Vivian.
 
+- 🔹 SP e MG.
 - 💻 Iniciei minha carreira como Analista de Engenharia de TI Jr no Itaú Unibanco.
 - 🌱 Formada em Engenharia Florestal, apaixonada pela natureza, viagens e acampamentos!
 - 🎲 Estudando sempre, quero me tornar uma Dev Full Stack com domínio das diversas ferramentas e tecnologias.
