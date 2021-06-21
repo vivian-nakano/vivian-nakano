@@ -1,4 +1,4 @@
-## Olá ✨
+## Oi, pessoal ✨
 
 #### Meu nome é Vivian.
 
