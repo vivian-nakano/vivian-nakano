@@ -1,10 +1,10 @@
-## Oi, pessoal ✨
+## Olá, pessoal ✨
 
 #### Meu nome é Vivian.
 
-- 🎲 Iniciei minha carreira como Analista de Engenharia de TI Jr, atuando com Engenharia de Software e Dados.
-- 🌱 Formada em Engenharia Florestal, apaixonada pela natureza, viagens e acampamentos!
 - 🪐 SP | MG
+- 🌱 Formada em Engenharia Florestal, apaixonada pela natureza, viagens e acampamentos!
+- 🎲 Analista de Engenharia de TI Jr, aprendendo diariamente assuntos desse mundo de tech.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivian-nakano/)](https://www.linkedin.com/in/vivian-nakano/)
 
